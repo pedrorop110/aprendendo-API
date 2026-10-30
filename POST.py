@@ -1,5 +1,7 @@
 import requests
 
+# POST = publicar na API
+
 try:
     url = "https://jsonplaceholder.typicode.com/users"
 
